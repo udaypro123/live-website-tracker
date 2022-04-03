@@ -36,3 +36,149 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+/**** Modifying CSSSSS  */
+
+#nav{
+ border: 1px solid rgb(219, 213, 213);
+ width: 100%;
+}
+
+span{
+  color: black;
+}
+.container-fluid h3{
+  color: rgb(13, 141, 13);
+  background: transparent;
+  font-weight: 700;
+}
+li h5{
+ margin-top: 6px;
+  margin-left: 15px;
+}
+#head{
+  color: rgb(6, 90, 132);
+  height: 70px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 60px;
+  
+  border: 1px solid rgb(241, 230, 230);
+}
+#heada{
+  border: 1px solid rgb(241, 230, 230);
+  height: 70px;
+  font-size: 12px;
+  line-height: 60px;
+ }
+ #heada a{
+   color: rgb(0, 142, 178);
+   font-weight: 800px;
+   text-decoration: none;
+ }
+ input{
+   border: .5px solid rgb(192, 187, 187);
+   height: 40px;
+   width: 900px;
+   text-align: center;
+   border-radius: 15px;
+  }
+input:hover{
+  background-color: #a8c9d2;
+}
+button{
+ 
+    background-color: rgb(66, 34, 34);
+    height: 40px;
+    width: 150px;
+    margin: 20px;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    }
+    button:hover{
+      background-color: rgb(4, 130, 88);
+    }
+    
+    
+    h6{
+      font-size: 15px;
+      font-weight: 700;
+      color: rgb(5, 5, 130);
+    }
+    .ud{
+      background-color: #ffffff;
+      color: rgb(0, 0, 0);
+      
+      width: 80%;
+    }
+    hr{
+      
+      color: black;
+      width: 89%;
+    }
+    
+    .btn{
+      
+   background-color: rgb(151, 92, 92);
+    height: 40px;
+    width: 100px;
+ 
+    outline: none;
+    color: white;
+    border-radius: 10px;
+  }
+  p{
+  line-height: 50px;
+  }
+  #wl{
+    border: no;
+    height: 50px;
+  }
+  #sec{
+      background-color: red;
+      height: 89vh;
+      
+    }
+
+    .menuL{
+      margin: 10px;
+      text-decoration: none;
+      font-size: 15px;
+      line-height: 50px;
+      color: rgb(46, 46, 123);
+     cursor: pointer;
+      font-weight: 600;
+     
+      
+    }
+    #sign{
+      background-image: url(../public/images/photo-1530533718754-001d2668365a.avif) ;
+    opacity: .9;
+      height: 100vh; 
+    }
+    #ji{
+      background-color: #b5e5ce;
+      margin-top: 150px;
+      height: 300px;
+      width: 40%;
+      border-radius: 15px;
+    }
+    #ii h1{
+      color: white;
+      font-size: 20px;
+    line-height: 500px;
+    margin-left: 60px;
+    }
+#ji a{
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 100;
+}
+#menuu{
+  text-align:right ;
+  
+}
